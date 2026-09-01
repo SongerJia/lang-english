@@ -145,3 +145,111 @@ ChatGPT是一款智能的（smart）AI聊天机器人工具（tool），由美�
 
 ---
 ### Group4
+Robots are more and more useful and important in our life. They help us a lot. In factories, robots can help people do a lot of work. They work faster and do not need a rest. People will feel bored if they do the same job again and again, but robots will not. They can work in some dangerous places where people cannot go. Robots are useful in our homes, too. They can help us do some cooking. They can help the blind people read newspapers, help the old people move some heavy things and so on. If we have some other problems, we can also ask them for help.
+
+核心词表
+	our [ˈaʊə(r)] det. 我们的
+	释 belonging to us; connected with us
+	例 I think all of us should respect our teachers. 我认为我们所有人都应该尊敬我们的老师。
+	us [əs] pron. 我们
+	释 objective case (宾格) of "we"
+	例 Please contact us if you have any problems. 如果您有任何问题，请联系我们。
+	factory [ˈfæktəri] n. 工厂
+	释 a building or group of buildings where goods are made
+	例 factory workers 工厂工人
+	do [duː] vt. 从事（工作），进行（活动）
+	释 to work at or perform an activity or a task
+	搭 do well in 在……方面做得好
+	do sb. a favor 帮某人的忙
+	例 It's such a difficult thing to do. 做这件事可真难。
+	Tips 过去式did；过去分词done
+	work [wɜːk] n. 工作，活计
+	释 tasks that need to be done
+	例 There is plenty of work to be done in the garden. 花园里有很多活要干。
+	same [seɪm] adj. 相同的，同样的
+	释 not different
+	记 联想记忆：他们的名字（name）完全相同（same）
+	搭 at the same time 同时 on the same day 在同一天 in the same way 以相同的方式 the same as ... 和……一样
+	例 Lily used to think Pisa was the same as pizza. 莉莉过去以为比萨（城市）和比萨饼是一回事。
+	again [əˈɡen] adv. 再一次，又一次
+	释 one more time
+	例 Tom is late for work again. 汤姆上班又迟到了。
+	place [pleɪs] n. 地点，地方
+	释 a particular position, point or area
+	例 It's a good place for a picnic. 那是个野餐的好地方。
+	where [weə(r)] adv. ① 在那（地方），到那（地方）； ② 在哪里，到哪里
+	释 ① used after words or phrases that refer to a place or situation to mean "at, in or to which"; ② in or to what place
+	例 That is the small town where I used to work for years. 那是我曾经工作过多年的小镇。
+	Tips where可用作关系副词，引出定语从句
+	cooking [ˈkʊkɪŋ] n. 烹饪；烹调
+	释 the process of preparing food
+	例 We always use olive oil for cooking. 我们做饭总是用橄榄油。
+	blind [blaɪnd] adj. 盲的，失明的
+	释 not able to see
+	搭 be blind to 对……视而不见
+	例 She went to a school for blind children. 她去了一所盲人学校。
+	read [riːd] vt./vi. 读，朗读
+	释 to go through written or printed words, etc. in silence or speaking them to other people
+	记 联想记忆：摇着头（head），开始读（read）
+	例 I read the ads in yesterday's newspaper. 我读了昨天报纸上的广告。
+	Tips 过去式/过去分词read
+	newspaper [ˈnjuːzpeɪpə(r)] n. 报纸
+	释 a set of large printed sheets of paper containing news, articles, advertisements, etc. and published every day or every week
+	记 合成词：news（新闻）+ paper（纸）→印有新闻的纸→报纸
+	例 Did you read today's evening newspaper? 你读今天的晚报了吗？
+	old [əʊld] adj. 老的，年纪大的，不年轻的
+	释 having lived for a long time; no longer young
+	Tips the old表示“老年人”，视为复数，如：The old feel the cold more than the young. 老年人比年轻人更怕冷。
+	heavy [ˈhevi] adj. 重的，沉的
+	释 weighing a lot; difficult to lift or move
+	记 联想记忆：大头儿子的头（head）又大又沉（heavy）
+	例 My brother is much heavier than me. 我弟弟比我重得多。
+
+短文翻译
+
+在我们的（our）生活中，机器人变得越来越有用，越来越重要。它们对我们（us）帮助很大。在工厂（factory）里，机器人可以帮助人们做（do）很多工作（work）。它们干活的速度更快，还不需要休息。人们如果一遍又一遍地（again）做同样的（same）工作，就会感到厌倦，但机器人不会。它们可以去人类不能去的（where）一些危险地点（place）工作。机器人在家里也大有用处。它们可以帮我们做饭（cooking），给盲（blind）人读（read）报纸（newspaper），帮助老（old）人搬一些重（heavy）物，等等。如果我们有其他问题，也可以向它们寻求帮助。
+
+---
+### Group5
+
+Electronic waste, also known as “e-waste”, is used to describe the waste from useless electronics such as computers, phones, fridges, washing machines, TVs and so on. Most of these items are not often rubbish, but simply no longer in use. In 2019, the world produced about 53.6 million tons of e-waste, and it's reported that the world's e-waste will reach 74.7 million tons by 2030.
+
+核心词表
+	electronic [ɪˌlekˈtrɒnɪk] adj. 电子设备的
+	释 of or concerned with electronics
+	例 electronic devices电子设备
+	waste [weɪst] n. 弃物；垃圾
+	释 materials that are no longer needed and are thrown away
+	例 the household waste 生活垃圾
+	useless [ˈjuːsləs] adj. 无用的
+	释 not useful; not doing or achieving what is needed or wanted
+	例 This pen is useless. 这支笔没用了。
+	such [sʌtʃ] det. （指上文）这样的，那样的，类似的
+	释 of the type already mentioned
+	例 He likes cars, trains, and other such toys. 他喜欢汽车、火车以及其他的这类玩具。
+	such as 诸如，例如
+	phone [fəʊn] n. 电话
+	释 a telephone
+	例 I don't know Jim's new phone number. 我不知道吉姆的新电话号码。
+	fridge [frɪdʒ] n. 冰箱
+	释 a piece of electrical equipment in which food is kept cold so that it stays fresh
+	例 Please go and get some ice for me from the fridge. 去冰箱里帮我拿点冰块。
+	联 bridge n. 桥
+	machine [məˈʃiːn] n. 机器
+	释 a piece of equipment which uses electricity or an engine in order to do a particular kind of work
+	记 谐音记忆：“模型”→做一个机器模型→机器
+	例 I have to learn the skill of running a machine. 我需要学习操作机器的技巧。
+	washing machine 洗衣机
+	TV [ˌtiː ˈviː] n. 电视
+	释 television
+	例 What's on TV tonight? 今晚电视上有什么节目？
+	rubbish [ˈrʌbɪʃ] n. 垃圾，废弃物
+	释 things that you throw away because you no longer want or need them
+	例 I can't believe that I've got so much rubbish on my desk. 我的桌上竟然有这么多垃圾，真不敢相信。
+	reach [riːtʃ] vt. ① 达到，到达（一定阶段、程度或数量）；② 到达，抵达（某地）
+	释 ① to arrive at a particular level, speed, etc. over a period of time; ② to arrive at the place that you have been travelling to
+	例 This tree can reach a height of 20 metres. 这棵树可以长到20米高。
+
+短文翻译
+
+电子（electronic）垃圾（waste），也被称为“e-waste”，指的是由没用的（useless）电子产品所形成的废弃物，如（such as）电脑、手机（phone）、冰箱（fridge）、洗衣机（washing machine）、电视（TV）等。这些物件多半算不上是垃圾（rubbish），只是不再使用了。2019年，全球产生了约5 360万吨电子垃圾，而且据报道，到2030年，全球的电子垃圾将达到（reach）7 470万吨。
